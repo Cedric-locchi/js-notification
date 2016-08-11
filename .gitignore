@@ -1,0 +1,11 @@
+# configuration jetbrain
+.idea
+
+# dev folder
+build
+
+# dev dependencies
+node_modules
+
+# apple file
+.DS_Store

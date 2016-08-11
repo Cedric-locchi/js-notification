@@ -1,0 +1,21 @@
+// import mixins pour les positions
+@import "mixins/position";
+
+//import de la base du composant notif
+@import "base/reset";
+@import "base/notif";
+@import "base/animate";
+
+// import des etats possible de la notification
+@import "layout/error";
+@import "layout/warning";
+@import "layout/success";
+@import "layout/default";
+
+// import des position possible de la notification
+@import "position/top";
+@import "position/bottom";
+@import "position/middle";
+
+// import de font-awesome
+@import "font-awesome";

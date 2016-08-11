@@ -1,0 +1,14 @@
+@mixin middle-position($position) {
+  position: absolute;
+  top: $position;
+}
+
+@mixin top-position() {
+  position: absolute;
+  top: 20px;
+}
+
+@mixin bot-position() {
+  position: absolute;
+  bottom: 20px;
+}

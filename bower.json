@@ -1,0 +1,26 @@
+{
+  "name": "notify-me",
+  "homepage": "https://github.com/Cedric-locchi/notification",
+  "authors": [
+    "cedric locchi adigit <cedric@adigit.com>"
+  ],
+  "description": "notification system",
+  "main": "./lib/js/notify_me.js",
+  "moduleType": [],
+  "keywords": [
+    "js",
+    "notif",
+    "notification",
+    "notify",
+    "vanilla",
+    "vanillajs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,9 @@
+.bottom-right {
+ @include bot-position();
+  right: 20px;
+}
+
+.bottom-left {
+  @include bot-position();
+  left: 20px;
+}

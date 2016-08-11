@@ -1,0 +1,9 @@
+.top-right {
+  @include  top-position();
+  right: 20px;
+}
+
+.top-left {
+  @include  top-position();
+  left: 20px;
+}
